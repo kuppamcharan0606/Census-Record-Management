@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-censusrecordmanage-dev-193708-authRole",
+      "UnauthRoleArn": "arn:aws:iam::178441447535:role/amplify-censusrecordmanage-dev-193708-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::178441447535:role/amplify-censusrecordmanage-dev-193708-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-censusrecordmanage-dev-193708-deployment",
+      "UnauthRoleName": "amplify-censusrecordmanage-dev-193708-unauthRole",
+      "StackName": "amplify-censusrecordmanage-dev-193708",
+      "StackId": "arn:aws:cloudformation:us-east-1:178441447535:stack/amplify-censusrecordmanage-dev-193708/f87bd900-65b7-11ed-9f9b-0e70561d9dad",
+      "AmplifyAppId": "d7krdb3nq0xgt",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-censusrecordmanage-dev-193708-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "censusrecordmanage576889c6": {}
+      },
+      "function": {
+        "censusrecord529f": {
+          "deploymentBucketName": "amplify-censusrecordmanage-dev-193708-deployment",
+          "s3Key": "amplify-builds/censusrecord529f-51364742557058303743-build.zip"
+        }
+      },
+      "api": {
+        "api6342a1bf": {}
+      },
+      "storage": {
+        "formtable": {}
+      }
+    }
+  }
+}
